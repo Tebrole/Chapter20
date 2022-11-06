@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Chapter20/AnimalClass/bin/Debug/net6.0/AnimalClass.deps.json
+/Users/apple/RiderProjects/Chapter20/AnimalClass/bin/Debug/net6.0/AnimalClass.dll
+/Users/apple/RiderProjects/Chapter20/AnimalClass/bin/Debug/net6.0/AnimalClass.pdb
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/AnimalClass.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/AnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/AnimalClass.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/AnimalClass.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/AnimalClass.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/AnimalClass.dll
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/refint/AnimalClass.dll
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/AnimalClass.pdb
+/Users/apple/RiderProjects/Chapter20/AnimalClass/obj/Debug/net6.0/ref/AnimalClass.dll

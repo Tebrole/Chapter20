@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankAppTest/1.0.0": {
+        "dependencies": {
+          "BankApp": "1.0.0",
+          "BankAppTrialAndError": "1.0.0"
+        },
+        "runtime": {
+          "BankAppTest.dll": {}
+        }
+      },
+      "BankApp/1.0.0": {
+        "dependencies": {
+          "IBank": "1.0.0"
+        },
+        "runtime": {
+          "BankApp.dll": {}
+        }
+      },
+      "BankAppTrialAndError/1.0.0": {
+        "runtime": {
+          "BankAppTrialAndError.dll": {}
+        }
+      },
+      "IBank/1.0.0": {
+        "runtime": {
+          "IBank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankAppTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankAppTrialAndError/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

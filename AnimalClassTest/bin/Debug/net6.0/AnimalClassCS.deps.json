@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AnimalClassCS/1.0.0": {
+        "dependencies": {
+          "AnimalClass": "1.0.0"
+        },
+        "runtime": {
+          "AnimalClassCS.dll": {}
+        }
+      },
+      "AnimalClass/1.0.0": {
+        "runtime": {
+          "AnimalClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalClassCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

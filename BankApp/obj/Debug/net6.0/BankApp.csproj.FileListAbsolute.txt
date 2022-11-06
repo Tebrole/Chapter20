@@ -1,0 +1,15 @@
+/Users/apple/RiderProjects/Chapter20/BankApp/bin/Debug/net6.0/BankApp.deps.json
+/Users/apple/RiderProjects/Chapter20/BankApp/bin/Debug/net6.0/BankApp.dll
+/Users/apple/RiderProjects/Chapter20/BankApp/bin/Debug/net6.0/BankApp.pdb
+/Users/apple/RiderProjects/Chapter20/BankApp/bin/Debug/net6.0/IBank.dll
+/Users/apple/RiderProjects/Chapter20/BankApp/bin/Debug/net6.0/IBank.pdb
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.csproj.CopyComplete
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.dll
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/refint/BankApp.dll
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/BankApp.pdb
+/Users/apple/RiderProjects/Chapter20/BankApp/obj/Debug/net6.0/ref/BankApp.dll

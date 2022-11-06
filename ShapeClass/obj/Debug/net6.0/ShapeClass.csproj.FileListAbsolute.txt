@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Chapter20/ShapeClass/bin/Debug/net6.0/ShapeClass.deps.json
+/Users/apple/RiderProjects/Chapter20/ShapeClass/bin/Debug/net6.0/ShapeClass.dll
+/Users/apple/RiderProjects/Chapter20/ShapeClass/bin/Debug/net6.0/ShapeClass.pdb
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ShapeClass.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ShapeClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ShapeClass.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ShapeClass.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ShapeClass.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ShapeClass.dll
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/refint/ShapeClass.dll
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ShapeClass.pdb
+/Users/apple/RiderProjects/Chapter20/ShapeClass/obj/Debug/net6.0/ref/ShapeClass.dll

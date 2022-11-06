@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/bin/Debug/net6.0/BankAppTrialAndError.deps.json
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/bin/Debug/net6.0/BankAppTrialAndError.dll
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/bin/Debug/net6.0/BankAppTrialAndError.pdb
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/BankAppTrialAndError.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/BankAppTrialAndError.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/BankAppTrialAndError.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/BankAppTrialAndError.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/BankAppTrialAndError.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/BankAppTrialAndError.dll
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/refint/BankAppTrialAndError.dll
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/BankAppTrialAndError.pdb
+/Users/apple/RiderProjects/Chapter20/BankAppTrialAndError/obj/Debug/net6.0/ref/BankAppTrialAndError.dll

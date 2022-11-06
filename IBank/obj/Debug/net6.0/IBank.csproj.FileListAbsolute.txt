@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Chapter20/IBank/bin/Debug/net6.0/IBank.deps.json
+/Users/apple/RiderProjects/Chapter20/IBank/bin/Debug/net6.0/IBank.dll
+/Users/apple/RiderProjects/Chapter20/IBank/bin/Debug/net6.0/IBank.pdb
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/IBank.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/IBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/IBank.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/IBank.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/IBank.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/IBank.dll
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/refint/IBank.dll
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/IBank.pdb
+/Users/apple/RiderProjects/Chapter20/IBank/obj/Debug/net6.0/ref/IBank.dll

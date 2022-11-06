@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Chapter20/School/bin/Debug/net6.0/School.deps.json
+/Users/apple/RiderProjects/Chapter20/School/bin/Debug/net6.0/School.dll
+/Users/apple/RiderProjects/Chapter20/School/bin/Debug/net6.0/School.pdb
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/School.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/School.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/School.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/School.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/School.dll
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/refint/School.dll
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/School.pdb
+/Users/apple/RiderProjects/Chapter20/School/obj/Debug/net6.0/ref/School.dll

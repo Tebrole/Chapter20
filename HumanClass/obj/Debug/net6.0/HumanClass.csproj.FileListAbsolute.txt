@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Chapter20/HumanClass/bin/Debug/net6.0/HumanClass.deps.json
+/Users/apple/RiderProjects/Chapter20/HumanClass/bin/Debug/net6.0/HumanClass.dll
+/Users/apple/RiderProjects/Chapter20/HumanClass/bin/Debug/net6.0/HumanClass.pdb
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/HumanClass.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/HumanClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/HumanClass.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/HumanClass.AssemblyInfo.cs
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/HumanClass.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/HumanClass.dll
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/refint/HumanClass.dll
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/HumanClass.pdb
+/Users/apple/RiderProjects/Chapter20/HumanClass/obj/Debug/net6.0/ref/HumanClass.dll
